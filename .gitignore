@@ -128,3 +128,202 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Node.js related files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java related files
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.iws
+*.log
+*.h2.db
+*.db
+*.sqlite
+*.sql
+*.pid
+*.pid.lock
+hs_err_pid*
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Spring Tool Suite
+.springBeans
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.iws
+out/
+gen/
+
+# React specific
+build/
+public/
+*.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Bower dependency directory
+bower_components/
+
+# Gulp dependency directory
+.jest/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build / generate output
+.nuxt/
+dist/
+
+# Gatsby files
+.cache/
+public/
+
+# Vue.js
+dist/
+*.local
+
+# Storybook
+.storybook-out/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Project files
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+.idea/
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Python (if any Python scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+.eggs/
+
+# IntelliJ IDEA specific files
+/.idea
+/*.iws
+/*.iml
+/*.ipr
+/target/
+/out/
+/.idea/
+/*.iml
+*.class
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code specific files
+.vscode/
+.history/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux specific files
+*~
+.nfs*
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific files
+.gradle/
+build/
+
+# SQL specific files
+*.sql
+*.sqlite
+
+# AWS
+.aws/
+
+# Secrets
+secrets.yml
